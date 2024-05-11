@@ -9,3 +9,4 @@ target/
 *.iml
 *.ipr
 
+/apm-spring-rabbitmq-5.x-plugin/dependency-reduced-pom.xml
